@@ -7,3 +7,5 @@ Before leaving I asked the hostess what this playlist was called or if they knew
 I must have this playlist. I remember some of the songs titles and I want them and all the others on a Spotify playlist. So here we are. Using Soundtrack's API and Spotify's to find the playlist, get the tracks, and create a playlist.
 
 Enjoy!
+
+**disclaimer: I'm pretty sure there is a built-in GraphQL function for Soundtrack that exports to Spotify already**
